@@ -10139,6 +10139,19 @@
 		)
 		(uuid "44c72ebd-ebbd-40a7-9956-6cc0e680812b")
 	)
+	(text "Notes:"
+		(exclude_from_sim no)
+		(at 23.368 287.782 0)
+		(effects
+			(font
+				(size 6 6)
+				(thickness 0.8)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "4c83441e-d7ee-408d-9f48-c75af354ba00")
+	)
 	(text "Unused Op Amp"
 		(exclude_from_sim no)
 		(at 295.275 161.29 0)
@@ -10315,6 +10328,17 @@
 			(justify left top)
 		)
 		(uuid "e4fba861-d747-4eb1-a0ab-e64180808ed8")
+	)
+	(text "Pins D27-D30 are wired for serial wire debug and the run and boot pins, but their solder jumpers are closed."
+		(exclude_from_sim no)
+		(at 24.384 297.18 0)
+		(effects
+			(font
+				(size 1.7 1.7)
+			)
+			(justify left top)
+		)
+		(uuid "e6721df8-a80d-4c96-ab89-987b91ed0c17")
 	)
 	(global_label "D23"
 		(shape input)
@@ -15778,7 +15802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
 			(at 368.3 199.39 0)
 			(effects
 				(font
@@ -21735,7 +21759,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
 			(at 368.3 191.77 0)
 			(effects
 				(font
@@ -25730,7 +25754,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
 			(at 368.3 196.85 0)
 			(effects
 				(font
@@ -26408,7 +26432,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
 			(at 368.3 194.31 0)
 			(effects
 				(font
