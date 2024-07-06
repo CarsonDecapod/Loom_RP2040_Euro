@@ -608,6 +608,18 @@
           "label": "Notes",
           "name": "Notes",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "unit cost",
+          "name": "unit cost",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "smd kit",
+          "name": "smd kit",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -682,12 +694,12 @@
     "A25": "X",
     "A26": "X",
     "A27": "X",
-    "A28": "X",
-    "A29": "X",
+    "A28": "OPAMP_INV1",
+    "A29": "OPAMP_INV2",
     "A3": "GPIO_28_ADC2",
-    "A30": "X",
-    "A31": "X",
-    "A32": "X",
+    "A30": "OPAMP_NON_INV1",
+    "A31": "OPAMP_NON_INV2",
+    "A32": "OPAMP_OUT",
     "A4": "GPIO_29_ADC3",
     "A5": "X",
     "A6": "X",
