@@ -20749,7 +20749,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C139797"
+		(property "LCSC" "C393942"
 			(at 247.65 68.58 0)
 			(effects
 				(font
@@ -20758,7 +20758,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SKRPACE010"
+		(property "MPN" "TS24CA"
 			(at 247.65 68.58 0)
 			(effects
 				(font
@@ -20767,7 +20767,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "ALPSALPINE "
+		(property "Manufacturer" "SHOU HAN"
 			(at 247.65 68.58 0)
 			(effects
 				(font
@@ -29459,7 +29459,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C139797"
+		(property "LCSC" "C393942"
 			(at 181.61 69.85 0)
 			(effects
 				(font
@@ -29468,7 +29468,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SKRPACE010"
+		(property "MPN" "TS24CA"
 			(at 181.61 69.85 0)
 			(effects
 				(font
@@ -29477,7 +29477,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "ALPSALPINE "
+		(property "Manufacturer" "SHOU HAN"
 			(at 181.61 69.85 0)
 			(effects
 				(font
